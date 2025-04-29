@@ -14,7 +14,39 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-#Topic and Focus
+#Yemba Basic Sentence Order
+### $SVO$
+<img src="images/1.png" height="100px">
+
+### $SVO_\text{direct}O_\text{indirect}$
+<img src="images/2.png" height="100px">
+---
+#Yemba Basic Sentence Order
+### $SVO_\text{indirect}O_\text{direct}\quad$ **I**
+<img src="images/3.png" height="100px">
+### $SVO_\text{indirect}O_\text{direct}\quad$ **II**
+<img src="images/4.png" height="100px">
+---
+#Question I
+### Whether it is focus or topic?
+
+1. Michel: this is how we emphasise a certain part in a sentence;
+
+2. Verb is not allowed in this structure;
+
+3. Full sentences confirmation is needed: I love **YOU**, *NOT* someone else.
+
+4. Whether they are allowed to be answers to certain questions
+
+  A: 'Who gave an egg to Mary.'
+  
+  B: 'it is **JOHN** who gave an egg to Mary.'
+
+---
+#Question II
+### Whether á is ***it***-clefting or a ***focus***-marker?
+
+
 ---
 class: center, middle
 
