@@ -1,0 +1,23 @@
+---
+title: "Focus Structure in Yemba"
+subtitle: "a version that Merlin is not able to analyse"
+author: "Merlin Balkhash"
+institute: "Department of Linguistics, Rutgers University"
+date: "2025/04/27 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+#Topic and Focus
+---
+class: center, middle
+
+# Thank You!
+
+## Slides created via the R package [**Xaringan**](https://github.com/yihui/xaringan).
